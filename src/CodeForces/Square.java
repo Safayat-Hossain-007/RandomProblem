@@ -1,4 +1,4 @@
-// Problem: A. Square
+package CodeForces;// Problem: A. CodeForces.Square
 // Contest: Codeforces - Codeforces Round 920 (Div. 3)
 // URL: https://codeforces.com/problemset/problem/1921/A
 import java.util.Scanner;
